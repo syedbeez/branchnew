@@ -1,2 +1,3 @@
-Original content of file 1 
-Feature 1 added on techpanda1 
+place="Chennai " 
+This is the code on the incoming branch you are trying to merge
+print("GitHub")
